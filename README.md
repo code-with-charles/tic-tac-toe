@@ -9,6 +9,9 @@ Project Overview
 
 This repository hosts a Tic-Tac-Toe game built using Python with a Tkinter-based graphical user interface (GUI). It supports both two-player mode and AI opponent using simple decision-making algorithms.
 
+## Demo Video 🎥
+[Watch the demo](demo-video.mp4)
+
 Features
 
 Two-Player Mode: Play against a friend on the same computer.
